@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\pstep\source\repos\BookShopSystem\BookShopSystem\src\Main.cpp(59,10): warning C4129: 'A': unrecognized character escape sequence
+C:\Users\pstep\source\repos\BookShopSystem\BookShopSystem\src\Main.cpp(60,10): warning C4129: 'T': unrecognized character escape sequence
+C:\Users\pstep\source\repos\BookShopSystem\BookShopSystem\src\Main.cpp(103,8): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\pstep\source\repos\BookShopSystem\BookShopSystem\src\Main.cpp(95,14): warning C4101: 'r': unreferenced local variable
+  BookShopSystem.vcxproj -> C:\Users\pstep\source\repos\BookShopSystem\x64\Debug\BookShopSystem.exe
